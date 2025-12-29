@@ -50,3 +50,47 @@ Analyse complète des performances de ventes e-commerce avec détection automati
 
 ## 📂 Structure du Projet
 
+Analyse-Ecommerce-2025/
+├── Analyse_Performance_E_commerce.ipynb
+├── ca_categories.png
+├── synthetic_ecommerce_sales_2025.csv
+└── README.md
+## 🚀 Installation et Utilisation
+
+**Prérequis**
+
+pip install pandas matplotlib seaborn jupyter
+
+**Lancement**
+
+git clone https://github.com/YOUSSEF-BT/Analyse-Ecommerce-2025.git
+cd Analyse-Ecommerce-2025
+jupyter notebook Analyse_Performance_E_commerce.ipynb
+
+
+Exécutez toutes les cellules dans l'ordre pour reproduire l'analyse complète.
+
+## 📊 Méthodologie
+
+1. **Préparation** : Chargement et nettoyage automatique des données
+2. **Analyse** : Statistiques descriptives et agrégations par catégorie
+3. **Visualisation** : Graphiques professionnels pour communication
+4. **Insights** : Recommandations stratégiques basées sur les données
+
+## 🎓 Contexte
+
+Projet réalisé dans le cadre de mon développement en **Data Analysis** et **Business Intelligence**. Démontre ma capacité à produire des analyses exploratoires robustes et à communiquer des insights métier.
+
+## 📧 Contact
+
+**Youssef Bouzit**  
+🎓 Étudiant Cycle Ingénieur Data Science - SUP MTI Rabat  
+📍 Rabat, Maroc
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUSSEF--BT-black?logo=github)](https://github.com/YOUSSEF-BT)
+
+---
+
+⭐ **N'hésitez pas à laisser une étoile si ce projet vous a été utile !**
+
+*Dernière mise à jour : Décembre 2025*
