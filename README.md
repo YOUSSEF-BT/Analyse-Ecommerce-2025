@@ -72,7 +72,8 @@ Projet réalisé dans le cadre de mon développement en **Data Analysis** et **B
 📍 Rabat, Maroc
 
 [![GitHub](https://img.shields.io/badge/GitHub-YOUSSEF--BT-black?logo=github)](https://github.com/YOUSSEF-BT)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Youssef%20Bouzit-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/youssef-bouzit-74863239b/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-YOUSSEF--BT-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/yussefbt)
 ---
 
 ⭐ **N'hésitez pas à laisser une étoile si ce projet vous a été utile !**
