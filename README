@@ -1,0 +1,126 @@
+# 📊 Analyse E-Commerce 2025 - Portfolio Data Analyst
+
+![Chiffre d'Affaires par Catégorie](ca_categpries.png)
+
+## 🎯 Objectif du Projet
+Analyse complète des performances de ventes e-commerce avec détection automatique d'erreurs de données et calcul de KPIs métier. Ce projet démontre mes compétences en nettoyage de données, analyse exploratoire et visualisation pour des décisions business stratégiques.
+
+## 📁 Dataset Utilisé
+- **Source** : [Synthetic E-Commerce Sales Dataset 2025](https://www.kaggle.com/datasets/emirhanakku/synthetic-e-commerce-sales-dataset-2025)
+- **Volume** : 1000+ transactions sur 7 catégories de produits
+- **Fichier** : `synthetic_ecommerce_sales_2025.csv`
+
+## 🔍 Compétences Techniques Démontrées
+
+### Data Cleaning
+- Normalisation automatique des noms de colonnes (`str.strip().str.lower()`)
+- Détection intelligente des colonnes par mots-clés
+- Gestion robuste des erreurs de formatage
+
+### Analyse Exploratoire
+- Agrégation par catégorie de produits
+- Calcul du panier moyen par segment
+- Identification des drivers de performance
+
+### Visualisation
+- Graphiques professionnels avec Seaborn/Matplotlib
+- Palette de couleurs optimisée pour la lisibilité
+- Export haute résolution (300 dpi)
+
+### Business Intelligence
+- Analyse de la contribution au CA par catégorie
+- Identification des opportunités de croissance
+- Recommandations stratégiques data-driven
+
+## 📈 Résultats Clés
+
+| Catégorie    | CA Total    | Panier Moyen | Insight Stratégique |
+|--------------|-------------|--------------|---------------------|
+| Automotive   | 11,13M$     | 251,65$      | Leader du marché    |
+| Toys         | 11,11M$     | 252,02$      | Meilleur ratio rentabilité/volume |
+| Sports       | 11,11M$     | 251,74$      | Performance équilibrée |
+
+**💡 Insight Principal** : Les catégories présentent un panier moyen homogène (~252$), indiquant une stratégie de pricing cohérente. Toys offre le meilleur potentiel d'optimisation marketing.
+
+## 🛠️ Technologies & Outils
+
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![Pandas](https://img.shields.io/badge/Pandas-2.1.0-green.svg)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8.0-orange.svg)
+![Seaborn](https://img.shields.io/badge/Seaborn-0.13.0-blue.svg)
+
+**Stack Technique** : Python 3.10+ · Pandas · Matplotlib · Seaborn · Jupyter Notebook
+
+## 📂 Structure du Projet
+
+Analyse-Ecommerce-2025/
+├── Analyse_Performance_E_commerce.ipynb # Notebook principal avec analyse complète
+├── ca_categpries.png # Visualisation des résultats
+├── synthetic_ecommerce_sales_2025.csv # Dataset Kaggle
+└── README.md # Documentation du projet
+
+
+## 🚀 Comment Exécuter le Projet
+
+### Prérequis
+pip install pandas matplotlib seaborn jupyter
+
+### Lancement
+1. Clonez le repository :
+git clone https://github.com/YOUSSEF-BT/Analyse-Ecommerce-2025.git
+cd Analyse-Ecommerce-2025
+
+2. Ouvrez le notebook Jupyter :
+jupyter notebook Analyse_Performance_E_commerce.ipynb
+
+3. Exécutez toutes les cellules dans l'ordre pour reproduire l'analyse.
+
+## 📊 Méthodologie d'Analyse
+
+### 1. Préparation des Données
+- Chargement du dataset CSV
+- Nettoyage automatique des noms de colonnes
+- Création des variables calculées (total_amount)
+
+### 2. Analyse Descriptive
+- Statistiques par catégorie (CA, quantité, prix moyen)
+- Calcul du panier moyen
+- Analyse de la contribution au CA total
+
+### 3. Visualisation
+- Graphique en barres du CA par catégorie
+- Palette de couleurs professionnelle
+- Export pour présentation
+
+### 4. Insights Business
+- Identification des catégories performantes
+- Recommandations stratégiques
+- Pistes d'optimisation marketing
+
+## 🎓 Contexte Académique
+
+Ce projet a été réalisé dans le cadre de mon développement de compétences en **Data Analysis** et **Business Intelligence**. Il démontre ma capacité à :
+- Manipuler des datasets réels avec Pandas
+- Produire des analyses exploratoires robustes
+- Communiquer des insights métier via la visualisation
+- Structurer un projet GitHub professionnel
+
+## 🔗 Projets Connexes
+
+Découvrez mes autres projets d'analyse de données sur mon profil :
+- [Autres projets à venir]
+
+## 📧 Contact
+
+**Youssef Bouzit**  
+🎓 Étudiant Cycle Ingénieur Data Science - SUP MTI Rabat  
+📍 Rabat, Maroc
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUSSEF--BT-black?logo=github)](https://github.com/YOUSSEF-BT)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Votre%20Profil-blue?logo=linkedin)](votre-lien-linkedin)
+
+---
+
+⭐ **N'hésitez pas à laisser une étoile si ce projet vous a été utile !**
+
+*Dernière mise à jour : Décembre 2025*
