@@ -1,6 +1,6 @@
 # 📊 Analyse E-Commerce 2025 - Portfolio Data Analyst
 
-![Chiffre d'Affaires par Catégorie](ca_categpries.png)
+![Chiffre d'Affaires par Catégorie](ca_categories.png)
 
 ## 🎯 Objectif du Projet
 Analyse complète des performances de ventes e-commerce avec détection automatique d'erreurs de données et calcul de KPIs métier. Ce projet démontre mes compétences en nettoyage de données, analyse exploratoire et visualisation pour des décisions business stratégiques.
@@ -50,11 +50,14 @@ Analyse complète des performances de ventes e-commerce avec détection automati
 
 ## 📂 Structure du Projet
 
+```
 Analyse-Ecommerce-2025/
 ├── Analyse_Performance_E_commerce.ipynb
 ├── ca_categories.png
 ├── synthetic_ecommerce_sales_2025.csv
 └── README.md
+```
+
 ## 🚀 Installation et Utilisation
 
 **Prérequis**
