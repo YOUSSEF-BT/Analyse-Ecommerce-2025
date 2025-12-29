@@ -33,13 +33,13 @@ Analyse complète des performances de ventes e-commerce avec détection automati
 Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 
 ## Installation
-
+```
 Analyse-Ecommerce-2025/
 ├── Analyse_Performance_E_commerce.ipynb
 ├── ca_categpries.png
 ├── synthetic_ecommerce_sales_2025.csv
 └── README.md
-
+```
 ## 🚀 Installation et Utilisation
 
 **Prérequis**
